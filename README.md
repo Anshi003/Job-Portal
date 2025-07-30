@@ -1,4 +1,4 @@
-# Job Portal Backend
+# Job Portal
 
 A full-stack Job Portal application where companies can post job openings and applicants can apply, track, and manage their job applications.
 
